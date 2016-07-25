@@ -1,5 +1,5 @@
 # arduino_serial_string
-Arduino code to receive strings over serial and trigger functions based on the string received.
+[Under Construction] Arduino code to receive strings over serial and trigger functions based on the string received.
 
 ## Note this code is still in development. ##
 
